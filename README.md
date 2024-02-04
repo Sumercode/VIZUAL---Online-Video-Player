@@ -1,4 +1,6 @@
-# YouTube Clone with React and Material UI
+# YouTube Clone with React and Material UI - 
+
+Check out the live demo at vizualplayer.netlify.app
 
 This project is a YouTube clone built using React and Material UI. It aims to replicate some of the core functionalities of YouTube, including a home page with popular videos, search functionality, video player, and channel insights.
 

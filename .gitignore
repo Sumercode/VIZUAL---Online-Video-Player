@@ -8,7 +8,7 @@
 # testing
 /coverage
 
-# production
+# production - IGNORE THE BUILD FOLDER WHICH IS USED FOR DEPLOYMENT
 /build
 
 # misc

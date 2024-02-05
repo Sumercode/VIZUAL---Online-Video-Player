@@ -1,4 +1,4 @@
-![image](https://github.com/Sumercode/VIZUAL---Online-Video-Player/assets/105717568/d9714f74-5ccd-4284-8610-da7d584f5d8d)# YouTube Clone with React and Material UI - 
+# YouTube Clone with React and Material UI - 
 ## Check out the live demo at https://vizualplayer.netlify.app/
 
 ![image](https://github.com/Sumercode/VIZUAL---Online-Video-Player/assets/105717568/9e4e84f8-8f7d-4d79-a413-48456d73f9b7)
